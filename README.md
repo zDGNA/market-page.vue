@@ -1,2 +1,2 @@
 # vue.intro
-belajar vue
+nyoba2 belajar basic vue
