@@ -1,1 +1,1 @@
-# vue.intro - simple market page
+Project market page with vue
